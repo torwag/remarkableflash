@@ -219,7 +219,7 @@ imx6dlsabresd login:
 ```bash 
 mount /dev/mmcblk1p2 /mnt/
 mount /dev/mmcblk1p7 /mnt/home
-mount /dev/mmcblk1p1 /var/lib/uboot
+mount /dev/mmcblk1p1 /mnt/var/lib/uboot
 ```
 * For convince, one can chroot into the real system.
 ```bash 
