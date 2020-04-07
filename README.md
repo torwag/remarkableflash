@@ -1,3 +1,11 @@
+# Status-update !!!
+This repro is still working. However, we have now an much more automized process to get into the rM.
+Please follow
+
+https://github.com/ddvk/remarkable-uuuflash
+
+The description below remains for reference as it shows more deeply what is going on during boot.
+
 # remarkableflash
 
 This repro includes tools and docs to flash a new image to a remarkable tablet.
